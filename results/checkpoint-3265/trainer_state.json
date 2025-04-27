@@ -1,6 +1,6 @@
 {
   "best_global_step": 3265,
-  "best_metric": 0.7670750382848393,
+  "best_metric": 0.7667687595712098,
   "best_model_checkpoint": "./results\\checkpoint-3265",
   "epoch": 1.0,
   "eval_steps": 500,
@@ -11,18 +11,18 @@
   "log_history": [
     {
       "epoch": 1.0,
-      "grad_norm": 8.501852989196777,
+      "grad_norm": 8.213042259216309,
       "learning_rate": 1.600122511485452e-05,
-      "loss": 1.0557,
+      "loss": 1.061,
       "step": 3265
     },
     {
       "epoch": 1.0,
-      "eval_accuracy": 0.7670750382848393,
-      "eval_loss": 0.6819153428077698,
-      "eval_runtime": 23.0727,
-      "eval_samples_per_second": 283.018,
-      "eval_steps_per_second": 35.41,
+      "eval_accuracy": 0.7667687595712098,
+      "eval_loss": 0.6824672818183899,
+      "eval_runtime": 22.9233,
+      "eval_samples_per_second": 284.863,
+      "eval_steps_per_second": 35.641,
       "step": 3265
     }
   ],
